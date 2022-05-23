@@ -1,0 +1,3 @@
+{
+    "errorLens.messageTemplate" : "$code ($severity)",
+}

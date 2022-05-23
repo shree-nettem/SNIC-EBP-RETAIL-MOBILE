@@ -1,0 +1,2 @@
+-keep class com.jumio.** { *; }
+-keep class jumio.** { *; }

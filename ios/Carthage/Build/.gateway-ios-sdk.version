@@ -1,0 +1,19 @@
+{
+  "commitish" : "1.1.5",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "4d793194b0d5cd41305fd99c97cb40ee997c8ae06ae5ce7f293ecbeee1c48bfd",
+      "name" : "MPGSDK",
+      "container" : "MPGSDK.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "813191ad042a363460413c9787bb8b9d999e481ab562977862e6a17481bccb39",
+      "name" : "MPGSDK",
+      "container" : "MPGSDK.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    }
+  ]
+}

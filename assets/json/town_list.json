@@ -1,0 +1,484 @@
+{
+	"town_list": [
+		{
+			"town_id": 1,
+			"town_name": "AAli"
+		},
+		{
+			"town_id": 2,
+			"town_name": "Adhari"
+		},
+		{
+			"town_id": 3,
+			"town_name": "Adliya"
+		},
+		{
+			"town_id": 4,
+			"town_name": "Al Areen"
+		},
+		{
+			"town_id": 5,
+			"town_name": "Al Bu Khmais"
+		},
+		{
+			"town_id": 6,
+			"town_name": "Al Burhama"
+		},
+		{
+			"town_id": 7,
+			"town_name": "Al Busaiteen"
+		},
+		{
+			"town_id": 8,
+			"town_name": "Al Daih"
+		},
+		{
+			"town_id": 9,
+			"town_name": "Al Dair"
+		},
+		{
+			"town_id": 10,
+			"town_name": "Al Ghuraifah"
+		},
+		{
+			"town_id": 11,
+			"town_name": "Al Gufool"
+		},
+		{
+			"town_id": 12,
+			"town_name": "Al Hajar"
+		},
+		{
+			"town_id": 13,
+			"town_name": "Al Hamala"
+		},
+		{
+			"town_id": 14,
+			"town_name": "AL Hidd"
+		},
+		{
+			"town_id": 15,
+			"town_name": "Al Janabiya"
+		},
+		{
+			"town_id": 16,
+			"town_name": "Al Jasra"
+		},
+		{
+			"town_id": 17,
+			"town_name": "Al Juffair"
+		},
+		{
+			"town_id": 18,
+			"town_name": "Al Khamis"
+		},
+		{
+			"town_id": 19,
+			"town_name": "Al Markh"
+		},
+		{
+			"town_id": 20,
+			"town_name": "Al Meqsha"
+		},
+		{
+			"town_id": 21,
+			"town_name": "Al Muharraq"
+		},
+		{
+			"town_id": 22,
+			"town_name": "Al Nabih Saleh"
+		},
+		{
+			"town_id": 23,
+			"town_name": "Al Qadam"
+		},
+		{
+			"town_id": 24,
+			"town_name": "Al Quriyah"
+		},
+		{
+			"town_id": 25,
+			"town_name": "Al Reef Island"
+		},
+		{
+			"town_id": 26,
+			"town_name": "Al Riffa"
+		},
+		{
+			"town_id": 27,
+			"town_name": "Al Riffa Views"
+		},
+		{
+			"town_id": 28,
+			"town_name": "Al Rumaytha"
+		},
+		{
+			"town_id": 29,
+			"town_name": "Al Salmaniya"
+		},
+		{
+			"town_id": 30,
+			"town_name": "Al Zallaq"
+		},
+		{
+			"town_id": 31,
+			"town_name": "Alfatih"
+		},
+		{
+			"town_id": 32,
+			"town_name": "Al-Gumra"
+		},
+		{
+			"town_id": 33,
+			"town_name": "Al-Jowder"
+		},
+		{
+			"town_id": 34,
+			"town_name": "Al-Ma'awida"
+		},
+		{
+			"town_id": 35,
+			"town_name": "Al-Zayayina"
+		},
+		{
+			"town_id": 36,
+			"town_name": "Amwaj Islands"
+		},
+		{
+			"town_id": 37,
+			"town_name": "Arad"
+		},
+		{
+			"town_id": 38,
+			"town_name": "Askar"
+		},
+		{
+			"town_id": 39,
+			"town_name": "Awadhiya"
+		},
+		{
+			"town_id": 40,
+			"town_name": "Awali"
+		},
+		{
+			"town_id": 41,
+			"town_name": "Bahrain Bay"
+		},
+		{
+			"town_id": 42,
+			"town_name": "Bani Jamrah"
+		},
+		{
+			"town_id": 43,
+			"town_name": "Barbar"
+		},
+		{
+			"town_id": 44,
+			"town_name": "Bilad AlQadeem"
+		},
+		{
+			"town_id": 45,
+			"town_name": "Bin Ghatim"
+		},
+		{
+			"town_id": 46,
+			"town_name": "Bin Hindi"
+		},
+		{
+			"town_id": 47,
+			"town_name": "Bu Ashira"
+		},
+		{
+			"town_id": 48,
+			"town_name": "Bu Ghazal"
+		},
+		{
+			"town_id": 49,
+			"town_name": "Bu Quwah"
+		},
+		{
+			"town_id": 50,
+			"town_name": "Budaiya"
+		},
+		{
+			"town_id": 51,
+			"town_name": "Buri"
+		},
+		{
+			"town_id": 52,
+			"town_name": "Busabea"
+		},
+		{
+			"town_id": 53,
+			"town_name": "Dar Kulaib"
+		},
+		{
+			"town_id": 54,
+			"town_name": "Deplomatic Area"
+		},
+		{
+			"town_id": 55,
+			"town_name": "Dilmunia Island"
+		},
+		{
+			"town_id": 56,
+			"town_name": "Diraz"
+		},
+		{
+			"town_id": 57,
+			"town_name": "Diyar AlMuharraq"
+		},
+		{
+			"town_id": 58,
+			"town_name": "Dumistan"
+		},
+		{
+			"town_id": 59,
+			"town_name": "Durrat Al Bahrain"
+		},
+		{
+			"town_id": 60,
+			"town_name": "Durrat Marina"
+		},
+		{
+			"town_id": 61,
+			"town_name": "Eker"
+		},
+		{
+			"town_id": 62,
+			"town_name": "Exhibition Road"
+		},
+		{
+			"town_id": 63,
+			"town_name": "Galali"
+		},
+		{
+			"town_id": 64,
+			"town_name": "Gudaibiya"
+		},
+		{
+			"town_id": 65,
+			"town_name": "Hamad Town"
+		},
+		{
+			"town_id": 66,
+			"town_name": "Helt abdulsaleh"
+		},
+		{
+			"town_id": 67,
+			"town_name": "Hoora"
+		},
+		{
+			"town_id": 68,
+			"town_name": "Isa Town"
+		},
+		{
+			"town_id": 69,
+			"town_name": "Jabalat Habshi"
+		},
+		{
+			"town_id": 70,
+			"town_name": "Janusan"
+		},
+		{
+			"town_id": 71,
+			"town_name": "Jari AlShaikh"
+		},
+		{
+			"town_id": 72,
+			"town_name": "Jaww"
+		},
+		{
+			"town_id": 73,
+			"town_name": "JidAlHaj"
+		},
+		{
+			"town_id": 74,
+			"town_name": "Jidd Ali"
+		},
+		{
+			"town_id": 75,
+			"town_name": "Jidd Hafs"
+		},
+		{
+			"town_id": 76,
+			"town_name": "Jurdab"
+		},
+		{
+			"town_id": 77,
+			"town_name": "Jurdab"
+		},
+		{
+			"town_id": 78,
+			"town_name": "Karbabad"
+		},
+		{
+			"town_id": 79,
+			"town_name": "Karranah"
+		},
+		{
+			"town_id": 80,
+			"town_name": "Karzakkan"
+		},
+		{
+			"town_id": 81,
+			"town_name": "Lawzi"
+		},
+		{
+			"town_id": 82,
+			"town_name": "Maameer"
+		},
+		{
+			"town_id": 83,
+			"town_name": "madinat zayed"
+		},
+		{
+			"town_id": 84,
+			"town_name": "Mahooz"
+		},
+		{
+			"town_id": 85,
+			"town_name": "Malkiyah"
+		},
+		{
+			"town_id": 86,
+			"town_name": "Malkiyah"
+		},
+		{
+			"town_id": 87,
+			"town_name": "Manama City"
+		},
+		{
+			"town_id": 88,
+			"town_name": "Mina Salman"
+		},
+		{
+			"town_id": 89,
+			"town_name": "Muqabah"
+		},
+		{
+			"town_id": 90,
+			"town_name": "Muqshaa"
+		},
+		{
+			"town_id": 91,
+			"town_name": "Musalla"
+		},
+		{
+			"town_id": 92,
+			"town_name": "Noaim"
+		},
+		{
+			"town_id": 93,
+			"town_name": "Nurana Islands"
+		},
+		{
+			"town_id": 94,
+			"town_name": "Nuwaidrat"
+		},
+		{
+			"town_id": 95,
+			"town_name": "Porta Reef"
+		},
+		{
+			"town_id": 96,
+			"town_name": "Ras Hayyan"
+		},
+		{
+			"town_id": 97,
+			"town_name": "Ras Rumman"
+		},
+		{
+			"town_id": 98,
+			"town_name": "Ras Zwayed"
+		},
+		{
+			"town_id": 99,
+			"town_name": "Saar"
+		},
+		{
+			"town_id": 100,
+			"town_name": "Sadad"
+		},
+		{
+			"town_id": 101,
+			"town_name": "Sakhir"
+		},
+		{
+			"town_id": 102,
+			"town_name": "Salhiya"
+		},
+		{
+			"town_id": 103,
+			"town_name": "Salmabad"
+		},
+		{
+			"town_id": 104,
+			"town_name": "Salman Town"
+		},
+		{
+			"town_id": 105,
+			"town_name": "Samahij"
+		},
+		{
+			"town_id": 106,
+			"town_name": "Sanabis"
+		},
+		{
+			"town_id": 107,
+			"town_name": "Sanad"
+		},
+		{
+			"town_id": 108,
+			"town_name": "Saraya1"
+		},
+		{
+			"town_id": 109,
+			"town_name": "Saraya2"
+		},
+		{
+			"town_id": 110,
+			"town_name": "Seef"
+		},
+		{
+			"town_id": 111,
+			"town_name": "Sehla"
+		},
+		{
+			"town_id": 112,
+			"town_name": "Shahrakan"
+		},
+		{
+			"town_id": 113,
+			"town_name": "Shakhura"
+		},
+		{
+			"town_id": 114,
+			"town_name": "Sitra"
+		},
+		{
+			"town_id": 115,
+			"town_name": "Sugaya"
+		},
+		{
+			"town_id": 116,
+			"town_name": "Tala Island"
+		},
+		{
+			"town_id": 117,
+			"town_name": "Tashan"
+		},
+		{
+			"town_id": 118,
+			"town_name": "Tubli"
+		},
+		{
+			"town_id": 119,
+			"town_name": "Um Al Hasam"
+		},
+		{
+			"town_id": 120,
+			"town_name": "Zinj"
+		}
+	]
+}

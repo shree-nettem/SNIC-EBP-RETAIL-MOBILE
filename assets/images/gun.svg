@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.172" height="14.086" viewBox="0 0 17.172 14.086">
+  <g id="gun" transform="translate(0 -46)">
+    <g id="Group_2459" data-name="Group 2459" transform="translate(3.213 47.006)">
+      <g id="Group_2458" data-name="Group 2458">
+        <path id="Path_1923" data-name="Path 1923" d="M96.808,76,95.8,79.018h.952L97.759,76Z" transform="translate(-95.801 -76)" fill="#5fa0bb"/>
+      </g>
+    </g>
+    <g id="Group_2461" data-name="Group 2461" transform="translate(5.226 46)">
+      <g id="Group_2460" data-name="Group 2460">
+        <path id="Path_1924" data-name="Path 1924" d="M167.262,47.006h-.5v-.5a.5.5,0,0,0-1.006,0v.5h-8.928l-1.006,3.018h11.946V47.509A.5.5,0,0,0,167.262,47.006Z" transform="translate(-155.819 -46)" fill="#5fa0bb"/>
+      </g>
+    </g>
+    <g id="Group_2463" data-name="Group 2463" transform="translate(0 47.006)">
+      <g id="Group_2462" data-name="Group 2462">
+        <path id="Path_1925" data-name="Path 1925" d="M1.509,76a.5.5,0,0,0-.5.5.5.5,0,0,1-.5.5.5.5,0,0,0-.5.5v1.509H2.153L3.159,76Z" transform="translate(0 -76)" fill="#5fa0bb"/>
+      </g>
+    </g>
+    <g id="Group_2465" data-name="Group 2465" transform="translate(0 51.031)">
+      <g id="Group_2464" data-name="Group 2464">
+        <path id="Path_1926" data-name="Path 1926" d="M0,196v.5a.5.5,0,0,0,.5.5.5.5,0,0,1,.508.432l-.835,5.895a1.507,1.507,0,0,0,1.488,1.723H3.642a1.514,1.514,0,0,0,1.5-1.318l.347-2.707H7.546a1.511,1.511,0,0,0,1.509-1.509v-1.509h5.6a.5.5,0,0,0,.45-.278L15.974,196Zm6.037,4.025a1.006,1.006,0,0,1,0-2.012H6.07a2.345,2.345,0,0,0,.24,2.012Zm2.012-.5a.5.5,0,0,1-.395.481,1.456,1.456,0,0,1-.5-1.99h.893Z" transform="translate(0 -196)" fill="#5fa0bb"/>
+      </g>
+    </g>
+  </g>
+</svg>
